@@ -1,16 +1,8 @@
-# Academic-Search-Machine
-
+# Academic-Search-Engine
 Search engine is a system that collects information from the Internet according to a certain strategy and 
 using a specific computer program, organizes and processes the information， provides retrieval services 
 for users, and displays the relevant information to users. Search engine is a retrieval technology which 
-works on the Internet. It aims to improve the speed of information collection and provide a better network
-environment for people.
-
-With the development of search engine, the infrastructure and algorithm have been basically formed and 
-mature in technology. Search engine has developed into a system that collects information from the Internet
-according to a certain strategy and using a specific computer program. After organizing and processing the 
-information, it provides retrieval services for users and displays the relevant informationof user retrieval 
-to users.
+works on the Internet. 
 
 This paper focuses on the processing of corpus. The main research contents can be summarized as follows:
 1.A hidden Markov statistical model is built, and Viterbi algorithm is used to segment news corpus;
