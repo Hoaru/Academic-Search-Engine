@@ -1,4 +1,11 @@
 # Academic-Search-Engine
+
+- Created a search engine for users to find resources of academic references.
+- Applied hidden Markov statistical model, Inverted-Index and TF-IDF to process corpus.
+- Construct a Convolutional Neural Network with TensorFlow and Python to classify academic reference based 
+on labeled corpus and achieved accuracy of 95.3%.
+- Ranked A+ as the top %1 course final project.
+
 Search engine is a system that collects information from the Internet according to a certain strategy and 
 using a specific computer program, organizes and processes the information， provides retrieval services 
 for users, and displays the relevant information to users. Search engine is a retrieval technology which 
